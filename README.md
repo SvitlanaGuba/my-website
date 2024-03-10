@@ -1,5 +1,4 @@
 # my-website
 
 This is a really good website
-Edit on examlpe branch
-Now editing on update-readme branch
+Update made on master on Git before rebase
